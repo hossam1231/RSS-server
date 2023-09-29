@@ -1,3 +1,5 @@
+https://discord.gg/8maMsBAJAs
+
 # Simple (RSS FEED) XML Server with Cron Job
 
 This Node.js application creates a basic
